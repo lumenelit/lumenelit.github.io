@@ -1,5 +1,6 @@
-# Lumen Development Team
-
+---
+title-heading: Lumen Development Team
+---
 <img src="https://raw.githubusercontent.com/scientiadev/.github/main/profile/1stgroupphoto.jpg" alt="drawing" width="800"/>
 
 ```bash
